@@ -58,6 +58,8 @@ In this file, you can set several hyperparameters, like:
 - **Data-path**, path where you downloaded and unzipped the dataset.
 - **Path of others models**, path where the others models are saved for the features and probability fusions. 
 
+For the others hyperparameters please refer to the json file.
+
 # Train the model
 
 To train the model you must run the following command:
